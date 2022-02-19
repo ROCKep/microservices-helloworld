@@ -1,4 +1,4 @@
-package ru.igor.microserviceshelloworld.client
+package ru.igor.mshw.client
 
 data class Book(val id: String?,
                 val name: String,

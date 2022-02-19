@@ -1,4 +1,4 @@
-package ru.igor.microserviceshelloworld.client
+package ru.igor.mshw.client
 
 import java.time.LocalDate
 
